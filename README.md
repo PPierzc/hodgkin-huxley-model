@@ -1,5 +1,9 @@
-# hodgkin-huxley-model
+# Hodgkin-Huxley Model
 Implementation of the Hodgkin-Huxley model for the [blog post](https://perceptron.blog/hodgkin-huxley) on perceptron.blog.
+
+<div style="width: 100%; text-align: center">
+    <img src="figures/hh_cover.png" style="max-height: 300px">
+</div>
 
 There are two versions of the model:
 
